@@ -28,7 +28,7 @@ TG_USER_SESSION - Run any userbot session maker (https://repl.it/@ayrahikari/pyr
 ```
 ### Deploy Easy Way:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TharukRenuja/clonebot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rawal01singhbhati/clonebotnewtype)
 
 ### Deploy Hard Way:
 
